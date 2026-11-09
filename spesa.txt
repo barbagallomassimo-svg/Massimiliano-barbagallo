@@ -1,2 +1,4 @@
 Pane
 Latte
+pasta
+carne
